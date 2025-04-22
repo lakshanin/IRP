@@ -1,0 +1,19 @@
+
+Phone Error Rate (CTC): 38.22%
+Error Classification => Accuracy: 71.83%, F1 (macro): 38.38%
+Confusion Matrix:
+             Correct  Substituted  Deleted
+Correct        58304        14921     8435
+Substituted      255         2596       35
+Deleted          233          128      324
+Full Classification Report:
+              precision    recall  f1-score   support
+
+     Correct      0.992     0.714     0.830     81660
+ Substituted      0.147     0.900     0.253      2886
+     Deleted      0.037     0.473     0.068       685
+
+    accuracy                          0.718     85231
+   macro avg      0.392     0.695     0.384     85231
+weighted avg      0.955     0.718     0.805     85231
+

@@ -1,0 +1,59 @@
+2025-04-19 05:32:17,310 - INFO - ===== Epoch 1 =====
+2025-04-19 05:35:14,276 - INFO - Training: Total Loss: 2.2076, CTC Loss: 2.1980, ErrorCls Loss: 0.9569, λ: 0.01
+2025-04-19 05:35:28,322 - INFO - Validation: Total Loss: 1.5680, CTC Loss: 1.4840, ErrorCls Loss: 0.8402
+
+2025-04-19 05:35:29,295 - INFO - ===== Epoch 2 =====
+2025-04-19 05:38:28,342 - INFO - Training: Total Loss: 1.7084, CTC Loss: 1.6914, ErrorCls Loss: 0.8479, λ: 0.02
+2025-04-19 05:38:42,334 - INFO - Validation: Total Loss: 1.2839, CTC Loss: 1.1980, ErrorCls Loss: 0.8586
+
+2025-04-19 05:38:46,364 - INFO - ===== Epoch 3 =====
+2025-04-19 05:41:44,699 - INFO - Training: Total Loss: 1.5310, CTC Loss: 1.5056, ErrorCls Loss: 0.8464, λ: 0.03
+2025-04-19 05:41:58,599 - INFO - Validation: Total Loss: 1.2309, CTC Loss: 1.1482, ErrorCls Loss: 0.8266
+
+2025-04-19 05:41:59,389 - INFO - ===== Epoch 4 =====
+2025-04-19 05:44:56,750 - INFO - Training: Total Loss: 1.3889, CTC Loss: 1.3554, ErrorCls Loss: 0.8380, λ: 0.04
+2025-04-19 05:45:10,660 - INFO - Validation: Total Loss: 1.1268, CTC Loss: 1.0444, ErrorCls Loss: 0.8246
+
+2025-04-19 05:45:11,667 - INFO - ===== Epoch 5 =====
+2025-04-19 05:48:09,034 - INFO - Training: Total Loss: 1.2393, CTC Loss: 1.1981, ErrorCls Loss: 0.8229, λ: 0.05
+2025-04-19 05:48:22,957 - INFO - Validation: Total Loss: 0.9382, CTC Loss: 0.8586, ErrorCls Loss: 0.7968
+
+2025-04-19 05:48:24,441 - INFO - ===== Epoch 6 =====
+2025-04-19 05:51:22,026 - INFO - Training: Total Loss: 1.1353, CTC Loss: 1.0870, ErrorCls Loss: 0.8060, λ: 0.06
+2025-04-19 05:51:35,959 - INFO - Validation: Total Loss: 0.8516, CTC Loss: 0.7719, ErrorCls Loss: 0.7967
+
+2025-04-19 05:51:37,138 - INFO - ===== Epoch 7 =====
+2025-04-19 05:54:34,012 - INFO - Training: Total Loss: 1.0486, CTC Loss: 0.9928, ErrorCls Loss: 0.7969, λ: 0.07
+2025-04-19 05:54:47,876 - INFO - Validation: Total Loss: 0.9259, CTC Loss: 0.8478, ErrorCls Loss: 0.7808
+
+2025-04-19 05:54:48,045 - INFO - ===== Epoch 8 =====
+2025-04-19 05:57:44,276 - INFO - Training: Total Loss: 0.9760, CTC Loss: 0.9134, ErrorCls Loss: 0.7829, λ: 0.08
+2025-04-19 05:57:58,133 - INFO - Validation: Total Loss: 0.8230, CTC Loss: 0.7466, ErrorCls Loss: 0.7645
+
+2025-04-19 05:57:58,928 - INFO - ===== Epoch 9 =====
+2025-04-19 06:00:55,763 - INFO - Training: Total Loss: 0.9133, CTC Loss: 0.8440, ErrorCls Loss: 0.7699, λ: 0.09
+2025-04-19 06:01:09,658 - INFO - Validation: Total Loss: 0.6733, CTC Loss: 0.5994, ErrorCls Loss: 0.7385
+
+2025-04-19 06:01:10,469 - INFO - ===== Epoch 10 =====
+2025-04-19 06:04:07,432 - INFO - Training: Total Loss: 0.8647, CTC Loss: 0.7892, ErrorCls Loss: 0.7547, λ: 0.10
+2025-04-19 06:04:21,303 - INFO - Validation: Total Loss: 0.7790, CTC Loss: 0.7038, ErrorCls Loss: 0.7523
+
+2025-04-19 06:04:22,065 - INFO - ===== Epoch 11 =====
+2025-04-19 06:07:17,681 - INFO - Training: Total Loss: 0.8029, CTC Loss: 0.7291, ErrorCls Loss: 0.7386, λ: 0.10
+2025-04-19 06:07:31,564 - INFO - Validation: Total Loss: 0.6411, CTC Loss: 0.5705, ErrorCls Loss: 0.7062
+
+2025-04-19 06:07:32,558 - INFO - ===== Epoch 12 =====
+2025-04-19 06:10:29,120 - INFO - Training: Total Loss: 0.7531, CTC Loss: 0.6809, ErrorCls Loss: 0.7227, λ: 0.10
+2025-04-19 06:10:43,092 - INFO - Validation: Total Loss: 0.5832, CTC Loss: 0.5144, ErrorCls Loss: 0.6888
+
+2025-04-19 06:10:43,861 - INFO - ===== Epoch 13 =====
+2025-04-19 06:13:39,694 - INFO - Training: Total Loss: 0.7125, CTC Loss: 0.6412, ErrorCls Loss: 0.7129, λ: 0.10
+2025-04-19 06:13:53,553 - INFO - Validation: Total Loss: 0.6281, CTC Loss: 0.5588, ErrorCls Loss: 0.6932
+
+2025-04-19 06:13:53,757 - INFO - ===== Epoch 14 =====
+2025-04-19 06:16:49,040 - INFO - Training: Total Loss: 0.6737, CTC Loss: 0.6037, ErrorCls Loss: 0.7000, λ: 0.10
+2025-04-19 06:17:02,876 - INFO - Validation: Total Loss: 0.5670, CTC Loss: 0.4985, ErrorCls Loss: 0.6850
+
+2025-04-19 06:17:03,714 - INFO - ===== Epoch 15 =====
+2025-04-19 06:20:02,769 - INFO - Training: Total Loss: 0.6350, CTC Loss: 0.5663, ErrorCls Loss: 0.6878, λ: 0.10
+2025-04-19 06:20:16,806 - INFO - Validation: Total Loss: 0.5134, CTC Loss: 0.4480, ErrorCls Loss: 0.6542

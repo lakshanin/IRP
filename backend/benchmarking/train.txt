@@ -1,0 +1,199 @@
+2025-04-12 05:11:25,940 INFO ===== Epoch 1 =====
+2025-04-12 05:12:23,018 INFO Train Loss: 2.7945, CTC Loss: 2.7857, Error Loss: 0.2930, α: 0.03
+2025-04-12 05:12:26,848 INFO Validation Loss: 3.5791
+
+2025-04-12 05:12:26,939 INFO ===== Epoch 2 =====
+2025-04-12 05:13:23,059 INFO Train Loss: 2.9373, CTC Loss: 2.9257, Error Loss: 0.1930, α: 0.06
+2025-04-12 05:13:26,249 INFO Validation Loss: 2.0384
+
+2025-04-12 05:13:26,331 INFO ===== Epoch 3 =====
+2025-04-12 05:14:23,982 INFO Train Loss: 1.9763, CTC Loss: 1.9591, Error Loss: 0.1910, α: 0.09
+2025-04-12 05:14:27,154 INFO Validation Loss: 1.6307
+
+2025-04-12 05:14:27,238 INFO ===== Epoch 4 =====
+2025-04-12 05:15:23,715 INFO Train Loss: 1.6926, CTC Loss: 1.6699, Error Loss: 0.1887, α: 0.12
+2025-04-12 05:15:27,602 INFO Validation Loss: 1.4480
+
+2025-04-12 05:15:27,717 INFO ===== Epoch 5 =====
+2025-04-12 05:16:24,536 INFO Train Loss: 1.5368, CTC Loss: 1.5088, Error Loss: 0.1869, α: 0.15
+2025-04-12 05:16:27,665 INFO Validation Loss: 1.2675
+
+2025-04-12 05:16:27,749 INFO ===== Epoch 6 =====
+2025-04-12 05:17:24,347 INFO Train Loss: 1.4348, CTC Loss: 1.4015, Error Loss: 0.1850, α: 0.18
+2025-04-12 05:17:28,218 INFO Validation Loss: 1.2342
+
+2025-04-12 05:17:28,302 INFO ===== Epoch 7 =====
+2025-04-12 05:18:24,856 INFO Train Loss: 1.3599, CTC Loss: 1.3215, Error Loss: 0.1832, α: 0.21
+2025-04-12 05:18:27,994 INFO Validation Loss: 1.1820
+
+2025-04-12 05:18:28,075 INFO ===== Epoch 8 =====
+2025-04-12 05:19:25,209 INFO Train Loss: 1.3025, CTC Loss: 1.2588, Error Loss: 0.1819, α: 0.24
+2025-04-12 05:19:28,348 INFO Validation Loss: 1.1546
+
+2025-04-12 05:19:28,430 INFO ===== Epoch 9 =====
+2025-04-12 05:20:24,704 INFO Train Loss: 1.2595, CTC Loss: 1.2107, Error Loss: 0.1808, α: 0.27
+2025-04-12 05:20:28,264 INFO Validation Loss: 1.1434
+
+2025-04-12 05:20:28,375 INFO ===== Epoch 10 =====
+2025-04-12 05:21:25,011 INFO Train Loss: 1.2165, CTC Loss: 1.1626, Error Loss: 0.1796, α: 0.30
+2025-04-12 05:21:28,132 INFO Validation Loss: 1.0172
+
+2025-04-12 05:21:28,227 INFO ===== Epoch 11 =====
+2025-04-12 05:22:24,897 INFO Train Loss: 1.1787, CTC Loss: 1.1250, Error Loss: 0.1788, α: 0.30
+2025-04-12 05:22:28,984 INFO Validation Loss: 1.1494
+
+2025-04-12 05:22:28,984 INFO ===== Epoch 12 =====
+2025-04-12 05:23:25,189 INFO Train Loss: 1.1431, CTC Loss: 1.0897, Error Loss: 0.1780, α: 0.30
+2025-04-12 05:23:28,334 INFO Validation Loss: 0.9859
+
+2025-04-12 05:23:28,420 INFO ===== Epoch 13 =====
+2025-04-12 05:24:25,783 INFO Train Loss: 1.1103, CTC Loss: 1.0572, Error Loss: 0.1773, α: 0.30
+2025-04-12 05:24:28,950 INFO Validation Loss: 0.9671
+
+2025-04-12 05:24:29,034 INFO ===== Epoch 14 =====
+2025-04-12 05:25:25,520 INFO Train Loss: 1.0853, CTC Loss: 1.0322, Error Loss: 0.1768, α: 0.30
+2025-04-12 05:25:29,022 INFO Validation Loss: 0.8980
+
+2025-04-12 05:25:29,127 INFO ===== Epoch 15 =====
+2025-04-12 05:26:26,426 INFO Train Loss: 1.0591, CTC Loss: 1.0063, Error Loss: 0.1759, α: 0.30
+2025-04-12 05:26:29,607 INFO Validation Loss: 1.0494
+
+2025-04-12 05:26:29,607 INFO ===== Epoch 16 =====
+2025-04-12 05:27:26,106 INFO Train Loss: 1.0336, CTC Loss: 0.9810, Error Loss: 0.1755, α: 0.30
+2025-04-12 05:27:30,257 INFO Validation Loss: 0.9236
+
+2025-04-12 05:27:30,257 INFO ===== Epoch 17 =====
+2025-04-12 05:28:27,033 INFO Train Loss: 1.0143, CTC Loss: 0.9619, Error Loss: 0.1748, α: 0.30
+2025-04-12 05:28:30,268 INFO Validation Loss: 0.8844
+
+2025-04-12 05:28:30,354 INFO ===== Epoch 18 =====
+2025-04-12 05:29:28,048 INFO Train Loss: 0.9954, CTC Loss: 0.9431, Error Loss: 0.1744, α: 0.30
+2025-04-12 05:29:31,228 INFO Validation Loss: 0.9138
+
+2025-04-12 05:29:31,228 INFO ===== Epoch 19 =====
+2025-04-12 05:30:27,542 INFO Train Loss: 0.9750, CTC Loss: 0.9229, Error Loss: 0.1739, α: 0.30
+2025-04-12 05:30:31,250 INFO Validation Loss: 0.9539
+
+2025-04-12 05:30:31,250 INFO ===== Epoch 20 =====
+2025-04-12 05:31:27,473 INFO Train Loss: 0.9574, CTC Loss: 0.9053, Error Loss: 0.1736, α: 0.30
+2025-04-12 05:31:30,578 INFO Validation Loss: 0.9006
+
+2025-04-12 05:31:30,578 INFO ===== Epoch 21 =====
+2025-04-12 05:32:26,679 INFO Train Loss: 0.9457, CTC Loss: 0.8938, Error Loss: 0.1729, α: 0.30
+2025-04-12 05:32:30,883 INFO Validation Loss: 0.8662
+
+2025-04-12 05:32:30,973 INFO ===== Epoch 22 =====
+2025-04-12 05:33:27,992 INFO Train Loss: 0.9272, CTC Loss: 0.8754, Error Loss: 0.1726, α: 0.30
+2025-04-12 05:33:31,203 INFO Validation Loss: 0.9332
+
+2025-04-12 05:33:31,204 INFO ===== Epoch 23 =====
+2025-04-12 05:34:27,825 INFO Train Loss: 0.9126, CTC Loss: 0.8610, Error Loss: 0.1721, α: 0.30
+2025-04-12 05:34:31,324 INFO Validation Loss: 0.9408
+
+2025-04-12 05:34:31,325 INFO ===== Epoch 24 =====
+2025-04-12 05:35:27,570 INFO Train Loss: 0.8985, CTC Loss: 0.8469, Error Loss: 0.1718, α: 0.30
+2025-04-12 05:35:30,691 INFO Validation Loss: 0.9690
+
+2025-04-12 05:35:30,692 INFO ===== Epoch 25 =====
+2025-04-12 05:36:27,272 INFO Train Loss: 0.8847, CTC Loss: 0.8333, Error Loss: 0.1713, α: 0.30
+2025-04-12 05:36:30,398 INFO Validation Loss: 0.8775
+
+2025-04-12 05:36:30,398 INFO ===== Epoch 26 =====
+2025-04-12 05:37:26,028 INFO Train Loss: 0.8744, CTC Loss: 0.8230, Error Loss: 0.1711, α: 0.30
+2025-04-12 05:37:29,409 INFO Validation Loss: 0.9142
+
+2025-04-12 05:37:29,409 INFO ===== Epoch 27 =====
+2025-04-12 05:38:25,916 INFO Train Loss: 0.8611, CTC Loss: 0.8098, Error Loss: 0.1707, α: 0.30
+2025-04-12 05:38:29,054 INFO Validation Loss: 0.8999
+
+2025-04-12 05:38:29,054 INFO ===== Epoch 28 =====
+2025-04-12 05:39:24,700 INFO Train Loss: 0.8534, CTC Loss: 0.8022, Error Loss: 0.1707, α: 0.30
+2025-04-12 05:39:28,639 INFO Validation Loss: 0.8844
+
+2025-04-12 05:39:28,639 INFO ===== Epoch 29 =====
+2025-04-12 05:40:24,264 INFO Train Loss: 0.8402, CTC Loss: 0.7892, Error Loss: 0.1702, α: 0.30
+2025-04-12 05:40:27,367 INFO Validation Loss: 0.8624
+
+2025-04-12 05:40:27,453 INFO ===== Epoch 30 =====
+2025-04-12 05:41:23,333 INFO Train Loss: 0.8329, CTC Loss: 0.7819, Error Loss: 0.1700, α: 0.30
+2025-04-12 05:41:27,475 INFO Validation Loss: 0.8100
+
+2025-04-12 05:41:27,554 INFO ===== Epoch 31 =====
+2025-04-12 05:42:23,853 INFO Train Loss: 0.8225, CTC Loss: 0.7717, Error Loss: 0.1694, α: 0.30
+2025-04-12 05:42:26,956 INFO Validation Loss: 0.8407
+
+2025-04-12 05:42:26,956 INFO ===== Epoch 32 =====
+2025-04-12 05:43:23,464 INFO Train Loss: 0.8143, CTC Loss: 0.7635, Error Loss: 0.1693, α: 0.30
+2025-04-12 05:43:27,032 INFO Validation Loss: 0.8340
+
+2025-04-12 05:43:27,032 INFO ===== Epoch 33 =====
+2025-04-12 05:44:25,306 INFO Train Loss: 0.8042, CTC Loss: 0.7536, Error Loss: 0.1688, α: 0.30
+2025-04-12 05:44:28,624 INFO Validation Loss: 0.8336
+
+2025-04-12 05:44:28,624 INFO ===== Epoch 34 =====
+2025-04-12 05:45:25,018 INFO Train Loss: 0.7938, CTC Loss: 0.7432, Error Loss: 0.1685, α: 0.30
+2025-04-12 05:45:28,158 INFO Validation Loss: 0.9704
+
+2025-04-12 05:45:28,158 INFO ===== Epoch 35 =====
+2025-04-12 05:46:23,747 INFO Train Loss: 0.7880, CTC Loss: 0.7375, Error Loss: 0.1682, α: 0.30
+2025-04-12 05:46:27,396 INFO Validation Loss: 0.8358
+
+2025-04-12 05:46:27,396 INFO ===== Epoch 36 =====
+2025-04-12 05:47:23,414 INFO Train Loss: 0.7784, CTC Loss: 0.7280, Error Loss: 0.1680, α: 0.30
+2025-04-12 05:47:26,524 INFO Validation Loss: 0.8716
+
+2025-04-12 05:47:26,525 INFO ===== Epoch 37 =====
+2025-04-12 05:48:22,418 INFO Train Loss: 0.7698, CTC Loss: 0.7194, Error Loss: 0.1680, α: 0.30
+2025-04-12 05:48:26,542 INFO Validation Loss: 0.9057
+
+2025-04-12 05:48:26,542 INFO ===== Epoch 38 =====
+2025-04-12 05:49:22,404 INFO Train Loss: 0.7646, CTC Loss: 0.7144, Error Loss: 0.1673, α: 0.30
+2025-04-12 05:49:25,550 INFO Validation Loss: 0.8580
+
+2025-04-12 05:49:25,550 INFO ===== Epoch 39 =====
+2025-04-12 05:50:21,807 INFO Train Loss: 0.7568, CTC Loss: 0.7065, Error Loss: 0.1674, α: 0.30
+2025-04-12 05:50:25,989 INFO Validation Loss: 0.8319
+
+2025-04-12 05:50:25,989 INFO ===== Epoch 40 =====
+2025-04-12 05:51:22,934 INFO Train Loss: 0.7492, CTC Loss: 0.6991, Error Loss: 0.1672, α: 0.30
+2025-04-12 05:51:26,090 INFO Validation Loss: 0.7921
+
+2025-04-12 05:51:26,182 INFO ===== Epoch 41 =====
+2025-04-12 05:52:24,146 INFO Train Loss: 0.7429, CTC Loss: 0.6929, Error Loss: 0.1667, α: 0.30
+2025-04-12 05:52:27,323 INFO Validation Loss: 0.8845
+
+2025-04-12 05:52:27,324 INFO ===== Epoch 42 =====
+2025-04-12 05:53:23,981 INFO Train Loss: 0.7369, CTC Loss: 0.6869, Error Loss: 0.1667, α: 0.30
+2025-04-12 05:53:27,882 INFO Validation Loss: 0.8723
+
+2025-04-12 05:53:27,882 INFO ===== Epoch 43 =====
+2025-04-12 05:54:24,842 INFO Train Loss: 0.7310, CTC Loss: 0.6811, Error Loss: 0.1663, α: 0.30
+2025-04-12 05:54:28,008 INFO Validation Loss: 0.8954
+
+2025-04-12 05:54:28,008 INFO ===== Epoch 44 =====
+2025-04-12 05:55:24,837 INFO Train Loss: 0.7244, CTC Loss: 0.6745, Error Loss: 0.1661, α: 0.30
+2025-04-12 05:55:28,787 INFO Validation Loss: 0.8609
+
+2025-04-12 05:55:28,787 INFO ===== Epoch 45 =====
+2025-04-12 05:56:25,074 INFO Train Loss: 0.7199, CTC Loss: 0.6702, Error Loss: 0.1657, α: 0.30
+2025-04-12 05:56:28,353 INFO Validation Loss: 0.8285
+
+2025-04-12 05:56:28,353 INFO ===== Epoch 46 =====
+2025-04-12 05:57:26,096 INFO Train Loss: 0.7128, CTC Loss: 0.6632, Error Loss: 0.1654, α: 0.30
+2025-04-12 05:57:29,272 INFO Validation Loss: 0.8538
+
+2025-04-12 05:57:29,273 INFO ===== Epoch 47 =====
+2025-04-12 05:58:25,394 INFO Train Loss: 0.7094, CTC Loss: 0.6599, Error Loss: 0.1650, α: 0.30
+2025-04-12 05:58:29,036 INFO Validation Loss: 0.8914
+
+2025-04-12 05:58:29,036 INFO ===== Epoch 48 =====
+2025-04-12 05:59:25,630 INFO Train Loss: 0.7055, CTC Loss: 0.6560, Error Loss: 0.1650, α: 0.30
+2025-04-12 05:59:28,774 INFO Validation Loss: 0.8422
+
+2025-04-12 05:59:28,774 INFO ===== Epoch 49 =====
+2025-04-12 06:00:24,498 INFO Train Loss: 0.6957, CTC Loss: 0.6464, Error Loss: 0.1645, α: 0.30
+2025-04-12 06:00:28,745 INFO Validation Loss: 0.8844
+
+2025-04-12 06:00:28,746 INFO ===== Epoch 50 =====
+2025-04-12 06:01:25,205 INFO Train Loss: 0.6908, CTC Loss: 0.6416, Error Loss: 0.1642, α: 0.30
+2025-04-12 06:01:28,366 INFO Validation Loss: 0.8841
