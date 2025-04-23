@@ -69,7 +69,7 @@ def focal_loss(
     return loss[valid].mean()
 
 
-# Compute multi-task (CTC + error classification) loss
+# Compute multi-task (CTC + Focal) loss
 def compute_multitask_loss(
     model, batch, alpha=1.0, device="cpu",
     BLANK_ID=0,

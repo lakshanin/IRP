@@ -33,7 +33,6 @@ class BaselineBiLSTM(nn.Module):
         self.num_layers = num_layers
         self.bilstm = nn.LSTM(input_dim, hidden_dim, num_layers,
                               batch_first=True, bidirectional=True, dropout=dropout)
-        # Since it is bidirectional, the output dim is hidden_dim*2.
         self.ctc_out = nn.Linear(hidden_dim * 2, num_ctc_classes)
         self.error_out = nn.Linear(hidden_dim * 2, num_error_classes)
 
@@ -87,6 +86,7 @@ def noam_scheduler(step, warmup_steps, d_model):
     return d_model ** -0.5 * min(step ** -0.5, step * warmup_steps ** -1.5)
 
 
+# Multi-task Loss Calculation
 def compute_multitask_loss(model, batch, alpha=1.0, device="cpu",
                            class_weights=None, blank_id=0):
     (padded_feats, feat_lengths, padded_ctc, ctc_lens,
@@ -284,7 +284,7 @@ def main():
     val_dl = DataLoader(val_ds, batch_size=args.batch_size, shuffle=False, collate_fn=collate_fn)
     test_dl = DataLoader(test_ds, batch_size=args.batch_size, shuffle=False, collate_fn=collate_fn)
     
-    # Compute class weights for error classification (here we use ones; adapt as needed).
+    # Compute class weights
     class_weights = torch.ones(3).to(device)
     
     # Initialize model.

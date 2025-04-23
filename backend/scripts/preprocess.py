@@ -17,7 +17,7 @@ import tgt
 import nltk
 nltk.download('averaged_perceptron_tagger_eng')
   
-# Defined paths and hyperparameters.
+# Paths and parameters.
 all_data_dir       = r"/content/drive/MyDrive/IRP/Implementation_New/L2-ARCTIC"
 output_dir         = r"/content/drive/MyDrive/IRP/Final/preprocessed_data"
 partial_save_dir   = os.path.join(output_dir, "partials")
@@ -41,7 +41,7 @@ WIN_LENGTH         = 1024
 # G2P object for transcripts
 g2p = G2p()
 
-# Skip these "phones" from TextGrid so they don't appear in actual_phonemes
+# Skip these "phones"
 UNWANTED_PHONES = {"sil", "sp", "spn", ""}
 
 # Remove trailing numeric stress, e.g. "AA1" -> "AA"
@@ -49,7 +49,6 @@ STRESS_LEVELS = {"0","1","2"}
 
 
 def strip_stress(phoneme: str) -> str:
-    """Remove trailing numeric stress if present, e.g. 'IH1' -> 'IH'."""
     if phoneme and phoneme[-1] in STRESS_LEVELS:
         return phoneme[:-1]
     return phoneme

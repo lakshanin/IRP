@@ -45,7 +45,6 @@ try:
 
     G2P_AVAILABLE = True
 except ImportError:
-    # Fallback if g2p_en not installed
     def text_to_phonemes(text):
         return text.strip().split()
     G2P_AVAILABLE = False

@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
+"""
+Inference script for phoneme recognition and pronunciation error classification using the Multi-Task Conformer model.
 
+This script processes a single audio file and a corresponding transcript to:
+  • Extract log-Mel spectrogram features from the audio.
+  • Convert the transcript into a sequence of canonical phonemes using G2P.
+  • Predict the phoneme sequence spoken using CTC decoding.
+  • Classify each canonical phoneme as Correct, Substituted, or Deleted via a cross-attention mechanism.
+  • Output a summary of results and a word-level breakdown of phoneme errors.
+"""
 
 import json
 import torch
@@ -8,7 +17,7 @@ import numpy as np
 from collections import Counter
 from model import MultiTaskConformer
 
-# Hyperparameters & constants
+# Parameters
 NUM_BLOCKS = 12
 DIM_MODEL = 512
 DIM_FF = 2048
