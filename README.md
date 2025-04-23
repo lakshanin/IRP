@@ -1,4 +1,4 @@
-# MultiTaskConformer: Assessment of English Pronunciation Errors In Non-Native Speakers
+# Multi-Task Conformer: Assessment of English Pronunciation Errors In Non-Native Speakers
 
 **Multi-Task Conformer model** for assessing English pronunciation at the **phoneme level**, designed for non-native speakers. It performs:
 
@@ -72,8 +72,10 @@ IRP/
 ## Metrics
 
 - Phone Error Rate (PER)
-- F1 Score for error classification
+- F1 Score
+- Accuracy
 - Confusion Matrix
+- Classification Report
 
 ---
 
