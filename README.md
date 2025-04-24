@@ -48,7 +48,7 @@ IRP/
 │   │   ├── phoneme_mapping.py   
 │   │   ├── preprocess.py         
 │   │   └── train.py              
-│   └── train_plots/           
+│   └── training_outputs/           
 │
 ├── frontend/
 │   ├── app.py                  
