@@ -166,7 +166,6 @@ elif st.session_state.page == "results":
                         "Word":               wb["word"],
                         "Canonical Phones":   " ".join(wb["phones"]),
                         "Error Labels":       " ".join(wb["error_labels"]),
-                        "Recognized Phones":  " ".join(wb.get("recognized", []))
                     })
                 st.table(table_rows)
             else:
